@@ -15,5 +15,14 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 
 ![Main Page](Images/main.png)
 
- ### 2#Adding new playlist
+ ### 2# Adding new playlist
+ We can add a new playlist by selecting option 1
+ 
 ![Adding new playlist](Images/1.png)
+
+ ### 2# Adding new surah
+ We can add a new surah by selecting option 2 and if the playlist name is don't exist you will try again
+ 
+![Adding new surah](Images/1.png)
+
+
