@@ -13,6 +13,6 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 ## 1# Main Page
 
 At the start of the program, the project has no data. You have the option to add data or import it from a file.
-![](Images/main.png)
+![Main Page](Images/main.png)
 
 
