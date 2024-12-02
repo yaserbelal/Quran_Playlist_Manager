@@ -65,18 +65,21 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 ![Saving to a file](Images/9.png)
 
  ### 11# Loading from a file
- This is the result of loading the data from a file.
+ This is the result of loading the data from a file
+ 
 ![Loading from a file](Images/10.png)
 
- ### 12# THE END :)
+ ### 12# Remove an existing playlist
+ We can delete a contact by selecting option 11 and type the name of the playlist 
+![Remove an existing playlist](Images/10.png)
+
+ ### 13# THE END :)
  
- ![THE END :)](Images/11.png)
+![THE END :)](Images/0.png)
 
 
 
  
-
-
 
 
 
