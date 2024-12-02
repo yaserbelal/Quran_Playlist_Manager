@@ -50,6 +50,17 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 
 ![Display surahs in a specific playlist](Images/7.png)
 
+ ### 9# Play surah from specific playlist 
+ We can play a Surah from a specific playlist by selecting option 8. Once playing, we can control the Surah using the keyboard arrow keys
+ 	  Use left arrow (<-) to play the previous surah
+    Use right arrow (->) to play the next surah
+    Use up arrow (^) to pause the current surah
+	   Use down arrow (V) to resume the paused surah 
+    
+ ![Play surah from specific playlist](Images/8.png)
+
+
+
  
 
 
