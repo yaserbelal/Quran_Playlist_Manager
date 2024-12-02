@@ -26,7 +26,7 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 ![Adding new surah](Images/2.png)
 
  ### 3# Removing existing surah 
- We can add a remove surah by selecting option 3
+ We can add a remove surah by selecting option 3 and if the surah name  is don't exist you will try again
 
 ![Removing existing surah](Images/3.png)
 
