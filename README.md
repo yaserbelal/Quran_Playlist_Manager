@@ -20,15 +20,39 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
  
 ![Adding new playlist](Images/1.png)
 
- ### 2# Adding new surah
+ ### 3# Adding new surah
  We can add a new surah by selecting option 2 and if the playlist name is don't exist you will try again
  
 ![Adding new surah](Images/2.png)
 
- ### 3# Removing existing surah 
- We can add a remove surah by selecting option 3 and if the surah name  is don't exist you will try again
+ ### 4# Removing existing surah 
+ We can remove a surah by selecting option 3 and if the surah name  is don't exist you will try again
 
 ![Removing existing surah](Images/3.png)
+
+ ## 4# Change the order of existing playlist 
+ we can change the order of playlist by selection option 4 and if the playlist name  is don't exist you will try again
+ 
+![Change the order of existing playlist](Images/4.png)
+
+ ## 5# Display all playlists 
+ we can display all current plalists by selecion option 5
+
+![Display all playlists ](Images/5.png)
+
+ ## 6# Display all playlists and them surahs
+ we can display all playlists and them surahs by selection option 6
+
+![Display all playlists and them surahs](Images/6.png)
+ 
+ ## 7# Display surahs in a specific playlist
+ we can display surahs in a specific playlist by seletion option 7
+
+![Display surahs in a specific playlist](Images/7.png)
+
+ 
+
+
 
 
 
