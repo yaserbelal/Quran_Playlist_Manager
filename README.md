@@ -6,4 +6,4 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 
 ## [Project UML](#project-uml)
 
-![Project UML]([path/to/uml-image.png](https://github.com/yaserbelal/Quran_Playlist_Manager/blob/main/Images/UML.png))
+![Project UML](Images/UML.png)
