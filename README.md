@@ -20,15 +20,50 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
  
 ![Adding new playlist](Images/1.png)
 
- ### 2# Adding new surah
+ ### 3# Adding new surah
  We can add a new surah by selecting option 2 and if the playlist name is don't exist you will try again
  
 ![Adding new surah](Images/2.png)
 
- ### 3# Removing existing surah 
- We can add a remove surah by selecting option 3 and if the surah name  is don't exist you will try again
+ ### 4# Removing existing surah 
+ We can remove a surah by selecting option 4 and if the surah name  is don't exist you will try again
 
 ![Removing existing surah](Images/3.png)
+
+ ### 5# Change the order of existing playlist 
+ we can change the order of playlist by selection option 4 and if the playlist name  is don't exist you will try again
+ 
+![Change the order of existing playlist](Images/4.png)
+
+ ### 6# Display all playlists 
+ we can display all current plalists by selecion option 5
+
+![Display all playlists ](Images/5.png)
+
+ ### 7# Display all playlists and them surahs
+ we can display all playlists and them surahs by selection option 6
+
+![Display all playlists and them surahs](Images/6.png)
+ 
+ ### 8# Display surahs in a specific playlist
+ we can display surahs in a specific playlist by seletion option 7
+
+![Display surahs in a specific playlist](Images/7.png)
+
+ ### 9# Play surah from specific playlist 
+ We can play a Surah from a specific playlist by selecting option 8. Once playing, we can control the Surah using the keyboard arrow keys
+ 	  Use left arrow (<-) to play the previous surah
+    Use right arrow (->) to play the next surah
+    Use up arrow (^) to pause the current surah
+	   Use down arrow (V) to resume the paused surah 
+    
+ ![Play surah from specific playlist](Images/8.png)
+
+
+
+ 
+
+
 
 
 
