@@ -2,7 +2,7 @@
 
 A comprehensive console-based application for managing playlist.
 
-This project was developed as part of the 2024 Data Structures course at Zagazig University. It leverages a custom-built dynamic array data structure, showcasing a range of object-oriented programming (OOP) principles. This project provided hands-on experience with data structure design, algorithm efficiency, and OOP concepts, allowing for both learning and practical application of these key software engineering skills.
+This project was developed as part of the 2024 Data Structures course at Zagazig University. It leverages a custom-built Doubly linked list data structure, showcasing a range of object-oriented programming (OOP) principles. This project provided hands-on experience with data structure design, algorithm efficiency, and OOP concepts, allowing for both learning and practical application of these key software engineering skills.
 
 ## Project UML
 
@@ -23,6 +23,6 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
  ### 2# Adding new surah
  We can add a new surah by selecting option 2 and if the playlist name is don't exist you will try again
  
-![Adding new surah](Images/1.png)
+![Adding new surah](Images/2.png)
 
 
