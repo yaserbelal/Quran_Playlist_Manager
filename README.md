@@ -15,5 +15,5 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 
 ![Main Page](Images/main.png)
 
- ## 2#Adding new playlist
-![Main Page](Images/1.png)
+ ### 2#Adding new playlist
+![Adding new playlist](Images/1.png)
