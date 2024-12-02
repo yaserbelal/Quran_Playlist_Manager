@@ -57,20 +57,20 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
     Use up arrow (^) to pause the current surah
     Use down arrow (V) to resume the paused surah 
     
-[Play surah from specific playlist](Images/8.png)
+![Play surah from specific playlist](Images/8.png)
 	
  ### 10# Saving to a file
  At any point of the program we can save the data in the same file, this is the resulting file
 
-[Saving to a file](Images/9.png)
+![Saving to a file](Images/9.png)
 
  ### 11# Loading from a file
  This is the result of loading the data from a file.
-[Loading from a file](Images/10.png)
+![Loading from a file](Images/10.png)
 
  ### 12# THE END :)
  
- [THE END :)](Images/11.png)
+ ![THE END :)](Images/11.png)
 
 
 
