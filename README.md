@@ -9,9 +9,8 @@ This project was developed as part of the 2024 Data Structures course at Zagazig
 ![Project UML](Images/UML.png)
 
 # Project Details
-
-## 1# Main Page
-At the start of the program, the project has no data. You have the option to add data or import it from a file.
+  ## 1# Main PageAt the start of the program, the project has no data.
+  You have the option to add data or import it from a file.
 ![Main Page](Images/main.png)
 
 
